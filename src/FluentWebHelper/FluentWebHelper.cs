@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace Supermortal.Common.Helpers.FluentWebHelper
+namespace FluentWebHelper
 {
     public class FluentWebHelper : FluentWebHelperBase
     {
