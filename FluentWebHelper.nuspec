@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>FluentWebHelper</id>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
     <authors>Christopher Pink</authors>
 	<description>An HTTP helper for .NET</description>
 	<summary>A class for fluent web calls</summary>
@@ -17,7 +17,19 @@
     </dependencies>
   </metadata>
 	<files>
-		<file src="FluentWebHelper.dll" target="lib\netstandard2.0" />
-		<file src="FluentWebHelper.pdb" target="lib\netstandard2.0" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard2.0/FluentWebHelper.dll" target="lib/netstandard2.0" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard2.0/FluentWebHelper.pdb" target="lib/netstandard2.0" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.6/FluentWebHelper.dll" target="lib/netstandard1.6" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.6/FluentWebHelper.pdb" target="lib/netstandard1.6" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.5/FluentWebHelper.dll" target="lib/netstandard1.5" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.5/FluentWebHelper.pdb" target="lib/netstandard1.5" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.4/FluentWebHelper.dll" target="lib/netstandard1.4" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.4/FluentWebHelper.pdb" target="lib/netstandard1.4" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.3/FluentWebHelper.dll" target="lib/netstandard1.3" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.3/FluentWebHelper.pdb" target="lib/netstandard1.3" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.2/FluentWebHelper.dll" target="lib/netstandard1.2" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.2/FluentWebHelper.pdb" target="lib/netstandard1.2" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.1/FluentWebHelper.dll" target="lib/netstandard1.1" />
+		<file src="src/FluentWebHelper/bin/Release/netstandard1.1/FluentWebHelper.pdb" target="lib/netstandard1.1" />
 	</files>
 </package>
